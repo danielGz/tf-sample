@@ -1,0 +1,1 @@
+ssh_private_key = "<+stage.variables.ssh_private_key>"
